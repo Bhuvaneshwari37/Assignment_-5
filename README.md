@@ -1,4 +1,5 @@
-Multiclass Fish Image Classification with CNN & Pretrained Models
+**Multiclass Fish Image Classification with CNN & Pretrained Models**
+
 This repository contains code for classifying fish images into multiple categories using a custom Convolutional Neural Network (CNN) and several pretrained models like VGG16, ResNet50, MobileNet, InceptionV3, and EfficientNetB0. The project includes preprocessing, training, evaluation, deployment, and performance comparison.
 Table of Contents
 •	Project Overview
