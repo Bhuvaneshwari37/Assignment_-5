@@ -57,6 +57,7 @@ Preprocessing
 •	Random affine transforms
 •	Normalize using ImageNet mean and std
 Model
+
 CNN Model
 •	2 convolutional layers + ReLU + MaxPooling + Softmax
 •	Dropout layers
@@ -66,6 +67,7 @@ Pretrained Models
 Loss and Optimizer
 •	Loss: CrossEntropyLoss
 •	Optimizer: Adam (lr=0.001)
+
 Training
 •	Trained for 5  epochs
 •	Batch size: 195
