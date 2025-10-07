@@ -1,5 +1,4 @@
-# Assignment_-5
-**Fish Image Classification with CNN & Pretrained Models**
+Multiclass Fish Image Classification with CNN & Pretrained Models
 This repository contains code for classifying fish images into multiple categories using a custom Convolutional Neural Network (CNN) and several pretrained models like VGG16, ResNet50, MobileNet, InceptionV3, and EfficientNetB0. The project includes preprocessing, training, evaluation, deployment, and performance comparison.
 Table of Contents
 •	Project Overview
@@ -108,5 +107,4 @@ The 11 fish species classes used in the model are:
 •	fish sea_food shrimp
 •	fish sea_food striped_red_mullet
 •	fish sea_food trout
-
 
